@@ -1,0 +1,18 @@
+.seiya img{
+    position: relative;
+    width: 600px;
+    height: auto;
+    cursor: pointer;
+}
+.video_wrapper{
+    position: absolute;
+    top: 400px;
+    left: 220px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.video_wrapper:focus {
+    outline: none;
+}
